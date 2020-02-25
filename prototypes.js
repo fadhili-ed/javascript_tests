@@ -48,7 +48,5 @@ a.prototype;
  undefined
 B.prototype;
  B {}
-B.prototype;
- B {}
 
 
